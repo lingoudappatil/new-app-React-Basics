@@ -1,10 +1,7 @@
-
-
-const amount = "Shriii--    ";
+const amount = "Patil--    ";
 const value = ()=>
 {
-    return `Printed By MahaDev ${amount}`;
-
+    return `Printed By  Lingouda ${amount}`;
 }
 const Comp = (props) =>
 {
